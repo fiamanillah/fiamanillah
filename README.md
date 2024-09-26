@@ -1,4 +1,4 @@
-<img align="center" src="https://thumbs2.imgbox.com/a0/85/LS1zQI4T_t.gif" alt="fiamanillah" />
+<img align="center" src="https://images2.imgbox.com/a0/85/LS1zQI4T_o.gif" alt="fiamanillah" />
 
 <h1 align="center">Hi 👋, I'm Fi Amanillah</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
