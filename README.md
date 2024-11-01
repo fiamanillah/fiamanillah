@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/27vvP2r/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png" alt="fiamanillah" style="width:100%; "/>
 <p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /> <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars" alt="stars"></p>
 
-# Hi there, I'm Fi Amanillah Bitu 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Fi+Amanillah+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for building impactful and scalable web applications. I thrive on learning new technologies and enjoy every step of turning creative ideas into reality using the power of code.
 
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
     
 -   **Frontend**: <p> [![My Skills](https://skillicons.dev/icons?i=react,tailwind)]()</p>
     
--   **Backend**:<p> [![My Skills](https://skillicons.dev/icons?i=nodejs)](</p>
+-   **Backend**:<p> [![My Skills](https://skillicons.dev/icons?i=nodejs)]()</p>
     
 -   **Database**:<p> [![My Skills](https://skillicons.dev/icons?i=mongo)]()</p>
 
@@ -56,8 +56,20 @@ I'm currently focused on:
 -   Experimenting with creating interactive and large-scale projects like a **personal portfolio** and **blog**.
 
 
-![fiamanillah's Stats](https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 
 ![fiamanillah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true)
 
-![fiamanillah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true)
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="fiamanillah's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="fiamanillah's Streak" />
+    </td>
+  </tr>
+</table>
