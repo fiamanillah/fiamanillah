@@ -14,6 +14,20 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 -   💬 **Ask Me About**: Javascript, React.js, Tailwind css.
 -   🎯 **Career Goal**: To become a proficient full-stack developer, build innovative web applications, and contribute to meaningful projects.
 
+
+## 📞 Contact
+
+-   📧 **Email**: fi@amanillah.com
+-   🌐 **Portfolio**: [fi.amanillah.com/](https://fi.amanillah.com/)
+-   📱 **Social Links**:
+    -   [](https://www.linkedin.com/in/yourprofile)
+        
+        [Your LinkedIn](#)
+    -   [](https://twitter.com/yourprofile)
+        
+        [Your Twitter](#)
+
+
 ## 🛠️ Technologies & Tools
 
 -   **Languages**: <p>[![My Skills](https://skillicons.dev/icons?i=html,css,js,c)](https://skillicons.dev) </p>
@@ -34,4 +48,8 @@ I'm currently focused on:
 -   Slowly diving into **Node.js** and **Express** to complete my full-stack development journey.
 -   Experimenting with creating interactive and large-scale projects like a **personal portfolio** and **blog**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiamanillah&show_icons=true&locale=en&bg_color=0,000000,130F40" alt="fiamanillah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fiamanillah&show_icons=true&locale=en&bg_color=0,000000,130F40&card_width=700px" alt="fiamanillah" /></p>
+
+<img src="https://stats.hyo.dev/api/github-stats-advanced?login=fiamanillah" />
+
+
