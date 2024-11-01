@@ -55,8 +55,9 @@ I'm currently focused on:
 -   Slowly diving into **Node.js** and **Express** to complete my full-stack development journey.
 -   Experimenting with creating interactive and large-scale projects like a **personal portfolio** and **blog**.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://stats.hyo.dev/api/github-stats-advanced?login=fiamanillah" />
+![fiamanillah's Stats](https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
+![fiamanillah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true)
 
+![fiamanillah's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true)
