@@ -58,9 +58,22 @@ I'm currently focused on:
 
 
 
-![fiamanillah's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true)
 
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="fiamanillah's Top Languages" />
+    </td>
+    <td>
+      <h2>📚 Interests Beyond Coding</h2>
+      <ul>
+        <li><strong>Reading</strong>: Currently planning to get into tech and non-tech books.</li>
+        <li><strong>Podcasts</strong>: Listening to calming podcasts before bedtime to unwind and relax.</li>
+        <li><strong>Tech</strong>: Exploring new web technologies and tools to stay updated.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 <table>
@@ -73,3 +86,7 @@ I'm currently focused on:
     </td>
   </tr>
 </table>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=This%20is%20a%20title&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
