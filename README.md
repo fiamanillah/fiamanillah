@@ -1,5 +1,5 @@
 ![enter image description here](https://i.ibb.co.com/27vvP2r/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png)
-<img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" />
+<p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /></p>
 # Hi there, I'm Fi Amanillah Bitu 👋
 
 Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for building impactful and scalable web applications. I thrive on learning new technologies and enjoy every step of turning creative ideas into reality using the power of code.
