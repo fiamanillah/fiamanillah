@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/27vvP2r/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png" alt="fiamanillah" />
+<img src="https://i.ibb.co.com/27vvP2r/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png" alt="fiamanillah" style="width:100%"/>
 <p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /></p>
 # Hi there, I'm Fi Amanillah Bitu 👋
 
