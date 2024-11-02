@@ -34,16 +34,38 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 
 
-
 ## 🛠️ Technologies & Tools
 
--   **Languages**: <p>[![My Skills](https://skillicons.dev/icons?i=html,css,js,c)]() </p>
-    
--   **Frontend**: <p> [![My Skills](https://skillicons.dev/icons?i=react,tailwind)]()</p>
-    
--   **Backend**:<p> [![My Skills](https://skillicons.dev/icons?i=nodejs)]()</p>
-    
--   **Database**:<p> [![My Skills](https://skillicons.dev/icons?i=mongo)]()</p>
+<table>
+  <tr>
+    <td>
+      <strong>Languages</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></a>
+      </p>
+    </td>
+    <td>
+      <strong>Frontend</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Backend</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
+      </p>
+    </td>
+    <td>
+      <strong>Database</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
