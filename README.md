@@ -38,34 +38,44 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 <table>
   <tr>
-    <td>
-      <strong>Languages</strong>
-      <p>
-        <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></a>
-      </p>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <table>
+        <tr>
+          <td>
+            <strong>Languages</strong>
+            <p>
+              <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></a>
+            </p>
+          </td>
+          <td>
+            <strong>Frontend</strong>
+            <p>
+              <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></a>
+            </p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong>Backend</strong>
+            <p>
+              <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
+            </p>
+          </td>
+          <td>
+            <strong>Database</strong>
+            <p>
+              <a href="#"><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></a>
+            </p>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td>
-      <strong>Frontend</strong>
-      <p>
-        <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Backend</strong>
-      <p>
-        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
-      </p>
-    </td>
-    <td>
-      <strong>Database</strong>
-      <p>
-        <a href="#"><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></a>
-      </p>
+    <td style="vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="fiamanillah's Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 
@@ -81,21 +91,12 @@ I'm currently focused on:
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="fiamanillah's Top Languages" />
-    </td>
-    <td>
+
       <h2>📚 Interests Beyond Coding</h2>
       <ul>
         <li><strong>Reading</strong>: Currently planning to get into tech and non-tech books.</li>
         <li><strong>Podcasts</strong>: Listening to calming podcasts before bedtime to unwind and relax.</li>
         <li><strong>Tech</strong>: Exploring new web technologies and tools to stay updated.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 <table>
