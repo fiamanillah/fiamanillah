@@ -34,47 +34,43 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 
 
-## 🛠️ Technologies & Tools
+
+## 🛠️ Technologies & Tools & Top Languages
 
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      <table>
-        <tr>
-          <td>
-            <strong>Languages</strong>
-            <p>
-              <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></a>
-            </p>
-          </td>
-          <td>
-            <strong>Frontend</strong>
-            <p>
-              <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></a>
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <strong>Backend</strong>
-            <p>
-              <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
-            </p>
-          </td>
-          <td>
-            <strong>Database</strong>
-            <p>
-              <a href="#"><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></a>
-            </p>
-          </td>
-        </tr>
-      </table>
+    <td style="vertical-align: top;">
+      <strong>Languages</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></a>
+      </p>
     </td>
     <td style="vertical-align: top;">
+      <strong>Frontend</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></a>
+      </p>
+    </td>
+    <td rowspan="2" style="vertical-align: top; padding-left: 20px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="fiamanillah's Top Languages" />
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>Backend</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Database</strong>
+      <p>
+        <a href="#"><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></a>
+      </p>
+    </td>
+  </tr>
 </table>
+
 
 
 
