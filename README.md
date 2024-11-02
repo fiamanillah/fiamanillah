@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co.com/27vvP2r/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png" alt="fiamanillah" style="width:100%; "/>
+<img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%; "/>
 <p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /> <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars" alt="stars"></p>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Fi+Amanillah+%F0%9F%91%8B)](https://git.io/typing-svg)
