@@ -35,9 +35,10 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 
 
+
 ## 🛠️ Technologies & Tools & Top Languages
 
-<table>
+<table style="width: 100%;">
   <tr>
     <td style="vertical-align: top;">
       <strong>Languages</strong>
@@ -75,6 +76,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 
 
+
 ## 🌱 Currently Learning
 
 I'm currently focused on:
@@ -88,11 +90,11 @@ I'm currently focused on:
 
 
 
-      <h2>📚 Interests Beyond Coding</h2>
-      <ul>
-        <li><strong>Reading</strong>: Currently planning to get into tech and non-tech books.</li>
-        <li><strong>Podcasts</strong>: Listening to calming podcasts before bedtime to unwind and relax.</li>
-        <li><strong>Tech</strong>: Exploring new web technologies and tools to stay updated.</li>
+## 📚 Interests Beyond Coding
+
+-   **Reading**: Currently planning to get into tech and non-tech books.
+-   **Podcasts**: Listening to calming podcasts before bedtime to unwind and relax.
+-   **Tech**: Exploring new web technologies and tools to stay updated.
 
 
 <table>
