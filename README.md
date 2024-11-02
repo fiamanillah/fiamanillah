@@ -1,6 +1,6 @@
 
 <img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%; "/>
-<p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /> <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars" alt="stars"></p>
+<p><img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="fiamanillah" /> <img alt="followers" src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social"> <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars" alt="stars"></p>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Fi+Amanillah+%F0%9F%91%8B)](https://git.io/typing-svg)
 
@@ -35,10 +35,9 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
 
 
 
-
 ## 🛠️ Technologies & Tools & Top Languages
 
-<table style="width: 100%;">
+<table>
   <tr>
     <td style="vertical-align: top;">
       <strong>Languages</strong>
@@ -71,7 +70,6 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
     </td>
   </tr>
 </table>
-
 
 
 
@@ -111,3 +109,6 @@ I'm currently focused on:
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
