@@ -94,6 +94,7 @@ I'm currently focused on:
 -   **Podcasts**: Listening to calming podcasts before bedtime to unwind and relax.
 -   **Tech**: Exploring new web technologies and tools to stay updated.
 
+## 📊 Stats
 
 <table>
   <tr>
