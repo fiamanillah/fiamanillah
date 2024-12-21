@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm a **MERN stack developer** with a passion for 
       <strong>Backend</strong>
       <p>
         <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Backend"></a>
+       <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Backend"></a>
       </p>
     </td>
     <td style="vertical-align: top;">
