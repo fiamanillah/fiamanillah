@@ -54,7 +54,7 @@
 
 
 ## 🛠️ Technologies & Tools
-
+<div align="left">
 <table align="left">
   <tr>
     <td><strong>Languages</strong></td>
@@ -71,7 +71,7 @@
     <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
   </tr>
 </table>
-
+</div>
 ---
 
 
