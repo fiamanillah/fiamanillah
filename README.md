@@ -44,8 +44,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/fiamanillah.b2" target="_blank">
-    <img src="https://i.ibb.co/wKp34hn/facebook-icon-161067.png" alt="Facebook" style="height:40px;" />
+    <img src="https://github.com/user-attachments/assets/70c8912e-d729-45ba-b0d8-89f54e08f7b5" alt="Facebook" />
   </a>
+
 </div>
 
 ---
