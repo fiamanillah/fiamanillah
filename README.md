@@ -58,6 +58,9 @@
     <tr>
       <td><strong>Languages</strong></td>
       <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
+      <td rowspan="5" style="vertical-align:top;">
+        <p><strong>Summary:</strong> Skilled in modern web development with proficiency in JavaScript, React.js, and Node.js. Experienced in both frontend and backend technologies, ensuring seamless full-stack development. Familiar with MongoDB for database management and various tools like VS Code and Postman for efficient workflows.</p>
+      </td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
@@ -76,7 +79,7 @@
       <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="3">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
       </td>
     </tr>
