@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%; "/>
+  <img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%;"/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social" alt="Followers" />
@@ -35,16 +35,13 @@
 ---
 
 ## 📱 Social Links
-
 <div align="left">
   <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
     <img src="https://github.com/user-attachments/assets/1f048cd8-2202-4ebc-8554-44980a6af550" alt="LinkedIn" />
   </a>
-
   <a href="https://www.instagram.com/fi_amanillah_bitu/" target="_blank">
     <img src="https://github.com/user-attachments/assets/d68d94ae-df51-4004-b3db-1c37801bf48f" alt="Instagram" />
   </a>
-
   <a href="https://www.facebook.com/fiamanillah.b2" target="_blank">
     <img src="https://github.com/user-attachments/assets/c3e53538-123b-40ce-baf4-ca6275514179" alt="Facebook" />
   </a>
@@ -56,31 +53,35 @@
 <div align="left">
   <table>
     <tr>
-      <td><strong>Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
-      <td rowspan="6" style="vertical-align:top;">
-        <p><strong>Summary:</strong> Skilled in modern web development with proficiency in JavaScript, React.js, and Node.js. Experienced in both frontend and backend technologies, ensuring seamless full-stack development. Familiar with MongoDB for database management and various tools like VS Code and Postman for efficient workflows.</p>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
-    </tr>
-    <tr>
-      <td><strong>Database</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
-    </tr>
-    <tr>
-      <td><strong>Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
+      <td style="width:40%;"><strong>Summary:</strong> Skilled in modern web development with proficiency in JavaScript, React.js, and Node.js. Experienced in both frontend and backend technologies, ensuring seamless full-stack development. Familiar with MongoDB for database management and various tools like VS Code and Postman for efficient workflows.</td>
+      <td style="width:60%;">
+        <table>
+          <tr>
+            <td><strong>Languages</strong></td>
+            <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
+          </tr>
+          <tr>
+            <td><strong>Frontend</strong></td>
+            <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
+          </tr>
+          <tr>
+            <td><strong>Backend</strong></td>
+            <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
+          </tr>
+          <tr>
+            <td><strong>Database</strong></td>
+            <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
+          </tr>
+          <tr>
+            <td><strong>Tools</strong></td>
+            <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="width:100%;" />
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
