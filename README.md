@@ -59,12 +59,14 @@
       <td><strong>Frontend</strong></td>
       <td><strong>Backend</strong></td>
       <td><strong>Database</strong></td>
+      <td><strong>Tools</strong></td>
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
       <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
       <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode" alt="Tools"></td>
     </tr>
   </table>
 </div>
