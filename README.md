@@ -52,24 +52,22 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="left">
-  <table>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td><strong>Frontend</strong></td>
-      <td><strong>Backend</strong></td>
-      <td><strong>Database</strong></td>
-      <td><strong>Tools</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
-      <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
-    </tr>
-  </table>
-</div>
+<table align="left">
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><strong>Frontend</strong></td>
+    <td><strong>Backend</strong></td>
+    <td><strong>Database</strong></td>
+    <td><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
+    <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
+  </tr>
+</table>
 
 ---
 
@@ -77,9 +75,19 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin-bottom: 20px;" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
+  <div>
+    <table>
+      <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
+      </tr>
+      <tr>
+        <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" /></td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
