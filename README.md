@@ -75,6 +75,11 @@
       <td><strong>Tools</strong></td>
       <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
     </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -85,14 +90,9 @@
   <table align="center" style="width:100%;">
     <tr>
       <td style="width:50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
-      </td>
-      <td style="width:50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2">
+      <td style="width:50%;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:100%;" />
       </td>
     </tr>
