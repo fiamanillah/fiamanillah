@@ -66,7 +66,7 @@
       <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
       <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
       <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode" alt="Tools"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
     </tr>
   </table>
 </div>
