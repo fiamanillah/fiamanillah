@@ -38,7 +38,8 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
-    
+    ![image](https://github.com/user-attachments/assets/dbb317fd-bfbb-4028-b320-84360e84234e)
+
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/fi_amanillah_bitu/" target="_blank">
