@@ -38,6 +38,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
+    
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/fi_amanillah_bitu/" target="_blank">
