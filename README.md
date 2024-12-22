@@ -41,10 +41,6 @@
     <img src="https://github.com/user-attachments/assets/1f048cd8-2202-4ebc-8554-44980a6af550" alt="LinkedIn" />
   </a>
 
-  <a href="https://x.com/fi_amanillah_b2" target="_blank">
-    <img src="https://github.com/user-attachments/assets/97be4c20-f7d2-4a8b-98b6-5e8c4f09ee59" alt="X" />
-  </a>
-
   <a href="https://www.instagram.com/fi_amanillah_bitu/" target="_blank">
     <img src="https://github.com/user-attachments/assets/d68d94ae-df51-4004-b3db-1c37801bf48f" alt="Instagram" />
   </a>
