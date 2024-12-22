@@ -79,15 +79,9 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-      
-      
-    </tr>
-    <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
       </td>
-    </tr>
-    <tr>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
@@ -95,7 +89,6 @@
   </table>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
 </div>
-
 
 ---
 
