@@ -82,19 +82,33 @@
           </tr>
         </table>
       </td>
-      <td rowspan="6" style="width:40%;vertical-align:top;">
-        <p><strong>🌱 Currently Learning</strong></p>
-        <ul>
-          <li>React.js: Deepening frontend development knowledge</li>
-          <li>Node.js & Express: Progressing towards full-stack development</li>
-          <li>Interactive Projects: Working on a personal portfolio and blog</li>
-        </ul>
-        <p><strong>📚 Interests Beyond Coding</strong></p>
-        <ul>
-          <li>Reading: Exploring tech and non-tech books</li>
-          <li>Podcasts: Listening to calming podcasts before bedtime</li>
-          <li>Tech: Staying updated with new web technologies</li>
-        </ul>
+      <td style="width:40%;vertical-align:top;">
+        <table>
+          <tr>
+            <td><strong>🌱 Currently Learning</strong></td>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>React.js: Deepening frontend development knowledge</li>
+                <li>Node.js & Express: Progressing towards full-stack development</li>
+                <li>Interactive Projects: Working on a personal portfolio and blog</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>📚 Interests Beyond Coding</strong></td>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>Reading: Exploring tech and non-tech books</li>
+                <li>Podcasts: Listening to calming podcasts before bedtime</li>
+                <li>Tech: Staying updated with new web technologies</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
