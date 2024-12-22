@@ -83,7 +83,18 @@
         </table>
       </td>
       <td rowspan="6" style="width:40%;vertical-align:top;">
-        <p><strong>Summary:</strong> Skilled in modern web development with proficiency in JavaScript, React.js, and Node.js. Experienced in both frontend and backend technologies, ensuring seamless full-stack development. Familiar with MongoDB for database management and various tools like VS Code and Postman for efficient workflows.</p>
+        <p><strong>🌱 Currently Learning</strong></p>
+        <ul>
+          <li>React.js: Deepening frontend development knowledge</li>
+          <li>Node.js & Express: Progressing towards full-stack development</li>
+          <li>Interactive Projects: Working on a personal portfolio and blog</li>
+        </ul>
+        <p><strong>📚 Interests Beyond Coding</strong></p>
+        <ul>
+          <li>Reading: Exploring tech and non-tech books</li>
+          <li>Podcasts: Listening to calming podcasts before bedtime</li>
+          <li>Tech: Staying updated with new web technologies</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -109,22 +120,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- **React.js**: Deepening frontend development knowledge
-- **Node.js & Express**: Progressing towards full-stack development
-- **Interactive Projects**: Working on a personal portfolio and blog
-
----
-
-## 📚 Interests Beyond Coding
-
-- **Reading**: Exploring tech and non-tech books
-- **Podcasts**: Listening to calming podcasts before bedtime
-- **Tech**: Staying updated with new web technologies
 
 ---
 
