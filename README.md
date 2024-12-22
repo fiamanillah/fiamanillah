@@ -54,7 +54,7 @@
 
 ## 🛠️ Technologies & Tools
 <div align="left" style="width:100%;">
-  <table>
+  <table style="width:50%;">
     <tr>
       <td><strong>Languages</strong></td>
       <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
