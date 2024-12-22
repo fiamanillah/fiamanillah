@@ -84,6 +84,7 @@
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
 </div>
 
