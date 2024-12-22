@@ -50,57 +50,44 @@
 
 ---
 
-
-
-
 ## 🛠️ Technologies & Tools
 <div align="left">
-<table align="left">
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td><strong>Frontend</strong></td>
-    <td><strong>Backend</strong></td>
-    <td><strong>Database</strong></td>
-    <td><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
-    <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
+    </tr>
+    <tr>
+      <td><strong>Tools</strong></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
+    </tr>
+  </table>
 </div>
+
 ---
-
-
-
 
 ## 📈 GitHub Stats
 
 <div align="left">
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
-        </td>
-      </tr>
-      <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
-      </tr>
-      <tr>
-        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></td>
-      </tr>
-      <tr>
-        <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" /></td>
-      </tr>
-    </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
 </div>
 
 ---
-
-
 
 ## 🌱 Currently Learning
 
