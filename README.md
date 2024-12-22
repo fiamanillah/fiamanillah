@@ -50,6 +50,9 @@
 
 ---
 
+
+
+
 ## 🛠️ Technologies & Tools
 
 <table align="left">
@@ -71,11 +74,12 @@
 
 ---
 
+
+
+
 ## 📈 GitHub Stats
 
 <div align="left">
-  
-  <div>
     <table>
       <tr>
         <td>
@@ -92,10 +96,11 @@
         <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" /></td>
       </tr>
     </table>
-  </div>
 </div>
 
 ---
+
+
 
 ## 🌱 Currently Learning
 
