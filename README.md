@@ -49,7 +49,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Skills & Tools
 <div align="left">
   <table>
     <tr>
@@ -105,6 +105,17 @@
                 <li>Reading: Exploring tech and non-tech books</li>
                 <li>Podcasts: Listening to calming podcasts before bedtime</li>
                 <li>Tech: Staying updated with new web technologies</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>🔨 Projects in Progress</strong></td>
+          </tr>
+          <tr>
+            <td>
+              <ul>
+                <li>Building a dynamic blog platform with React</li>
+                <li>Developing a portfolio showcasing my work and skills</li>
               </ul>
             </td>
           </tr>
