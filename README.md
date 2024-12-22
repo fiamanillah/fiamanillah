@@ -53,7 +53,7 @@
 ---
 
 ## 🛠️ Technologies & Tools
-<div align="left">
+<div align="left" style="width:100%;">
   <table>
     <tr>
       <td><strong>Languages</strong></td>
