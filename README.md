@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%; "/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -36,7 +36,7 @@
 
 ## 📱 Social Links
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -52,7 +52,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td><strong>Languages</strong></td>
@@ -73,21 +73,19 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" style="margin-top: 20px;" />
 </div>
 
 ---
@@ -108,6 +106,6 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <h3>✨ Thanks for visiting! Feel free to connect! ✨</h3>
 </div>
