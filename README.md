@@ -58,7 +58,7 @@
     <tr>
       <td><strong>Languages</strong></td>
       <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
-      <td rowspan="5" style="vertical-align:top;">
+      <td rowspan="6" style="vertical-align:top;">
         <p><strong>Summary:</strong> Skilled in modern web development with proficiency in JavaScript, React.js, and Node.js. Experienced in both frontend and backend technologies, ensuring seamless full-stack development. Familiar with MongoDB for database management and various tools like VS Code and Postman for efficient workflows.</p>
       </td>
     </tr>
