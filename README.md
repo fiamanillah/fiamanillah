@@ -48,7 +48,6 @@
   <a href="https://www.facebook.com/fiamanillah.b2" target="_blank">
     <img src="https://github.com/user-attachments/assets/c3e53538-123b-40ce-baf4-ca6275514179" alt="Facebook" />
   </a>
-
 </div>
 
 ---
@@ -58,7 +57,7 @@
   <table>
     <tr>
       <td><strong>Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,c" alt="Languages"></td>
+      <td><img src="https://skillicons.dev/icons?i=js,html,css,c" alt="Languages"></td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
@@ -90,8 +89,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" />
-
-
 
 ---
 
