@@ -103,6 +103,15 @@
 
 ---
 
+---
+
+<img src="https://raw.githubusercontent.com/fiamanillah/fiamanillah/output/snake.svg" alt="Snake animation" />
+
+
+---
+
+
+
 ## 🌱 Currently Learning
 
 - **React.js**: Deepening frontend development knowledge
