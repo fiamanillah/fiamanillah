@@ -37,18 +37,15 @@
 ## 📱 Social Links
 
 <div align="left">
+  <a href="https://www.facebook.com/fiamanillah.b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1f048cd8-2202-4ebc-8554-44980a6af550" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.instagram.com/fi_amanillah_bitu/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d68d94ae-df51-4004-b3db-1c37801bf48f" alt="Instagram" />
-  </a>
-
-  <a href="https://www.facebook.com/fiamanillah.b2" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c3e53538-123b-40ce-baf4-ca6275514179" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 ---
 
