@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://fi.amanillah.com/img/1/banner.png" alt="fiamanillah" style="width:100%; "/>
+  <img src="https://res.cloudinary.com/dlkk03hhl/image/upload/v1740588138/applicationFormImage_67bed891d9d7b9368adea41d_LInkedIn-cover.png.png" alt="fiamanillah" style="width:100%; "/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social" alt="Followers" />
