@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,express,gin" alt="Backend"></td>
     </tr>
     <tr>
       <td><strong>Database</strong></td>
