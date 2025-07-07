@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind" alt="Frontend"></td>
+      <td><img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" alt="Frontend"></td>
     </tr>
     <tr>
       <td><strong>Backend</strong></td>
