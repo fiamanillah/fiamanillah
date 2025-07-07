@@ -54,7 +54,7 @@
   <table style="width:50%;">
     <tr>
       <td><strong>Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=js,html,css,ts" alt="Languages"></td>
+      <td><img src="https://skillicons.dev/icons?i=js,html,css,ts,go" alt="Languages"></td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
