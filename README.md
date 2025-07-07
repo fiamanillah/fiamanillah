@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td><strong>Database</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mongo" alt="Database"></td>
+      <td><img src="https://skillicons.dev/icons?i=mongo,mongoose,postgres" alt="Database"></td>
     </tr>
     <tr>
       <td><strong>Tools</strong></td>
