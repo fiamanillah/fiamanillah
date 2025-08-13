@@ -20,7 +20,7 @@
 ## 👤 About Me
 
 - 🎓 **Education**: Computer Science and Engineering student at [European University of Bangladesh](https://eub.edu.bd/)
-- 💼 **Current Role**: Freelance Web Developer
+- 💼 **Current Role**: Mern Stack Developer
 - 🌍 **Location**: Dhaka, Bangladesh
 - 💬 **Ask Me About**: JavaScript, React.js, Tailwind CSS
 - 🎯 **Career Goal**: To become a proficient full-stack developer, build innovative web applications, and contribute to meaningful projects
