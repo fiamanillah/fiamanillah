@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><strong>Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm" alt="Tools"></td>
+      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm,neovim" alt="Tools"></td>
     </tr>
     <tr>
       <td colspan="2">
