@@ -89,7 +89,7 @@
       <td style="width:50%;">
         <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
-      [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+      [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fiamanillah&layout=compact)](https://github.com/stats-organization/github-stats-extended)
       <td style="width:50%;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:100%;" />
       </td>
