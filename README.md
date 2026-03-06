@@ -104,24 +104,6 @@
 
 ---
 
-
-
-## 🌱 Currently Learning
-
-- **React.js**: Deepening frontend development knowledge
-- **Node.js & Express**: Progressing towards full-stack development
-- **Interactive Projects**: Working on a personal portfolio and blog
-
----
-
-## 📚 Interests Beyond Coding
-
-- **Reading**: Exploring tech and non-tech books
-- **Podcasts**: Listening to calming podcasts before bedtime
-- **Tech**: Staying updated with new web technologies
-
----
-
 <div align="left">
   <h3>✨ Thanks for visiting! Feel free to connect! ✨</h3>
 </div>
