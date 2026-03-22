@@ -1,109 +1,36 @@
-<div align="left">
-  <img src="https://res.cloudinary.com/dlkk03hhl/image/upload/v1740588138/applicationFormImage_67bed891d9d7b9368adea41d_LInkedIn-cover.png.png" alt="fiamanillah" style="width:100%; "/>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=social" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars&style=social" alt="Stars" />
-  </p>
+# Hi there, I'm Fi Amanillah 👋
 
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Itim&weight=700&size=30&pause=1000&width=750&lines=Hi+there%2C+I'm+Fi+Amanillah+%F0%9F%91%8B" alt="Typing SVG">
-    </a>
-  </h1>
+**Full Stack Developer | Open Source Enthusiast**
 
-  <p>Welcome to my GitHub profile! I'm a <strong>MERN stack developer</strong> passionate about building impactful and scalable web applications. I thrive on learning new technologies and enjoy turning creative ideas into reality through code.</p>
-</div>
+I'm a developer from Dhaka, Bangladesh, passionate about building impactful, scalable web applications and self-hosted solutions. Whether I'm configuring my Linux environment or architecting a new backend, I thrive on turning complex problems into clean, efficient code.
 
 ---
 
-## 👤 About Me
+### 👨‍💻 About Me
 
-- 🎓 **Education**: Computer Science and Engineering student at [European University of Bangladesh](https://eub.edu.bd/)
-- 💼 **Current Role**: Mern Stack Developer
-- 🌍 **Location**: Dhaka, Bangladesh
-- 💬 **Ask Me About**: JavaScript, React.js, Tailwind CSS
-- 🎯 **Career Goal**: To become a proficient full-stack developer, build innovative web applications, and contribute to meaningful projects
+- 💼 **Current Role:** Full Stack Developer at Softvence Agency.
+- 🎓 **Education:** Pursuing a B.Sc. in Computer Science and Engineering at European University of Bangladesh.
+- 🌱 **Currently Exploring:** Go (Golang), Computer Architecture, and building scalable microservices.
+- ☕ **Beyond Code:** Working on starting my own coffee brand, *Compile Coffee*, and customizing my Hyprland setup.
 
----
+### 🛠️ Tech Stack & Tools
 
-## 📞 Contact
+- **Languages:** TypeScript, JavaScript, Go
+- **Frontend:** React, Next.js, SvelteKit, React Native (Expo), Tailwind CSS
+- **Backend:** Node.js, NestJS, Express
+- **Databases & ORMs:** PostgreSQL, MongoDB, Redis, Prisma
+- **DevOps & Cloud:** Docker, RabbitMQ, AWS, GCP
+- **Workspace:** Arch Linux (CachyOS), Neovim (LazyVim)
 
-- 📧 **Email**: [fi@amanillah.com](mailto:fi@amanillah.com)
-- 🌐 **Portfolio**: [fi.amanillah.com](https://fi.amanillah.com/)
+### 📫 Let's Connect
 
----
-
-## 📱 Social Links
-
-<div align="left">
-  <a href="https://www.facebook.com/fiamanillah.b2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+- **Portfolio:** [fi.amanillah.com](https://fi.amanillah.com/)
+- **Email:** [fi@amanillah.com](mailto:fi@amanillah.com)
+- **LinkedIn:** [in/fi-amanillah](https://www.linkedin.com/in/fi-amanillah/)
+- **Facebook:** [fiamanillah.b2](https://www.facebook.com/fiamanillah.b2/)
 
 ---
 
-## 🛠️ Technologies & Tools
-<div align="left" style="width:100%;">
-  <table style="width:50%;">
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=js,html,css,ts,go" alt="Languages"></td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs" alt="Frontend"></td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,gin" alt="Backend"></td>
-    </tr>
-    <tr>
-      <td><strong>Database</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=mongo,mongoose,postgres" alt="Database"></td>
-    </tr>
-    <tr>
-      <td><strong>Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=vscode,postman,webstorm,neovim" alt="Tools"></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" style="margin-bottom: 20px;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 GitHub Stats
-<div>
-  <table align="center" style="width:100%;">
-    <tr>
-      <td style="width:50%;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiamanillah&layout=compact" alt="GitHub Stats" />
-      </td>
-      <!-- [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=fiamanillah&layout=compact)](https://github.com/stats-organization/github-stats-extended) -->
-      <td style="width:50%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width:100%;" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Activity&hide_border=true&theme=react-dark" alt="Activity Graph" style="width:100%;" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="left">
-  <h3>✨ Thanks for visiting! Feel free to connect! ✨</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=transparent&hide_border=true&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
