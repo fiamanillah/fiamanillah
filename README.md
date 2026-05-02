@@ -1,111 +1,130 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dlkk03hhl/image/upload/v1740588138/applicationFormImage_67bed891d9d7b9368adea41d_LInkedIn-cover.png.png" alt="Fi Amanillah Cover" style="width:100%; border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.6); margin-bottom: 20px;" />
-  <div>
-    <a href="https://github.com/fiamanillah">
-      <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    </a>
-    <a href="https://github.com/fiamanillah?tab=followers">
-      <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=for-the-badge&color=2ea043&logo=github" alt="Followers" />
-    </a>
-    <a href="https://github.com/fiamanillah?tab=stars">
-      <img src="https://img.shields.io/github/stars/fiamanillah?label=Stars&style=for-the-badge&color=e3b341&logo=github" alt="Stars" />
-    </a>
-  </div>
-
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Fi+Amanillah+👋;Full+Stack+Developer+%40+Softvence+Agency+💻;Terminal+%26+Neovim+Enthusiast+⌨️;Open+Source+%26+Self-Hosting+Fanatic+🚀" alt="Typing SVG">
-    </a>
-  </h1>
-  <p><b>Architecting scalable full-stack solutions and writing clean code through the night shift. 🦉</b></p>
-</div>
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 10px 20px 10px 0; border-right: 1px solid #333;">
-      <h3 align="left">👨‍💻 The Developer</h3>
-      <p>I specialize in the MERN stack and NestJS, with a heavy focus on backend architecture, message queues, and containerization.</p>
-      <ul>
-        <li>💼 <b>Current Role:</b> Full Stack Developer at Softvence Agency.</li>
-        <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering @ EUB.</li>
-        <li>🌱 <b>Leveling Up:</b> Go (Golang), Computer Architecture, and Microservices (RabbitMQ/BullMQ).</li>
-        <li>🚀 <b>Currently Building:</b> A custom pup-box platform for dog products and a dedicated maternal health application.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 10px 0 10px 20px;">
-      <h3 align="left">⚙️ The Setup & Life</h3>
-      <p>When I'm not writing code for clients, I'm deep into Linux customization or building real-world businesses.</p>
-      <ul>
-        <li>🐧 <b>Workspace:</b> Ricing my Arch Linux (CachyOS + Hyprland) environment and living inside Neovim (LazyVim).</li>
-        <li>☕ <b>Entrepreneurship:</b> Developing my own brand, <i>Compile Coffee</i>, in Bangladesh.</li>
-        <li>🎮 <b>Downtime:</b> Immersed in AAA games like <i>Cyberpunk 2077</i> and <i>The Last of Us</i>.</li>
-        <li>🏍️ <b>Gearhead:</b> Deep diving into motorcycle mechanics, specifically Fuel Injection vs Electronic Fuel Injection systems.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🛠️ Tech Arsenal</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,redux,reactnative" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,prisma" alt="Backend and DBs" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,aws,gcp,linux,arch,neovim,postman,git" alt="DevOps and Tools" />
-</div>
-
----
-
-<h3 align="center">🔥 GitHub Analytics Matrix</h3>
-
-<div align="center">
-  <table style="width: 100%; background-color: transparent; border: none;">
-    <tr>
-      <td style="width: 50%; border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&hide_border=true&show_icons=true&locale=en&title_color=3B82F6&text_color=9aa5ce&icon_color=3B82F6&bg_color=1a1b26" alt="GitHub Stats" style="width: 100%; border-radius: 8px;" />
-      </td>
-      <td style="width: 50%; border: none; padding: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" style="width: 100%; border-radius: 8px;" />
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 50%; border: none; padding: 5px;">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiamanillah&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6" alt="Top Languages" style="width: 100%; border-radius: 8px;" />
-      </td>
-      <td style="width: 50%; border: none; padding: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=fiamanillah&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" style="width: 100%;" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Contributions%20Graph&hide_border=true&theme=tokyo-night&bg_color=1a1b26&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Activity Graph" style="width: 100%; border-radius: 8px;" />
-</div>
-
----
-
-<h3 align="center">📫 Let's Connect</h3>
-
-<div align="center">
-  <a href="https://fi.amanillah.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=Google-Chrome&logoColor=3B82F6" alt="Portfolio"/>
-  </a>
-  <a href="mailto:fi@amanillah.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fi-amanillah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/fiamanillah.b2/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1a1b26?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"/>
-  </a>
+  <img src="https://res.cloudinary.com/dlkk03hhl/image/upload/v1740588138/applicationFormImage_67bed891d9d7b9368adea41d_LInkedIn-cover.png.png" alt="Fi Amanillah" style="width:100%; border-radius:12px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/fiamanillah">
+    <img src="https://komarev.com/ghpvc/?username=fiamanillah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fiamanillah?tab=followers">
+    <img src="https://img.shields.io/github/followers/fiamanillah?label=Followers&style=flat-square&color=2ea043&logo=github" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://fi.amanillah.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  Fi Amanillah  —  Full Stack Developer  @  Softvence Agency      ║
+║  MERN · NestJS · Docker · Arch Linux · Neovim · Night Owl 🦉    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `$ whoami`
+
+> Architecting scalable backend systems by day (and mostly night). I write clean code, break monoliths into microservices, and refuse to use anything other than Neovim.
+
+- 💼 **Work** — Full Stack Developer at **Softvence Agency**
+- 🎓 **Education** — B.Sc. in CSE at **EUB**
+- 🌱 **Learning** — Go (Golang), Computer Architecture, Microservices (RabbitMQ / BullMQ)
+- 🏗️ **Building** — A custom pup-box platform for dog products + a maternal health application
+- ☕ **Side Quest** — Founding [Compile Coffee](https://github.com/fiamanillah) *(a coffee brand, in Bangladesh)*
+- 🐧 **Daily Driver** — CachyOS + Hyprland + LazyVim (yes, really)
+
+---
+
+## `$ cat tech_stack.json`
+
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-1a1b26?style=for-the-badge&logo=go&logoColor=00ADD8)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b26?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b26?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Frontend
+![React](https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-1a1b26?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![React Native](https://img.shields.io/badge/React%20Native-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-1a1b26?style=for-the-badge&logo=redux&logoColor=764ABC)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-1a1b26?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Express](https://img.shields.io/badge/Express-1a1b26?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Prisma](https://img.shields.io/badge/Prisma-1a1b26?style=for-the-badge&logo=prisma&logoColor=white)
+
+### DevOps & Tooling
+![Docker](https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2496ED)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1b26?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![AWS](https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1a1b26?style=for-the-badge&logo=archlinux&logoColor=1793D1)
+![Neovim](https://img.shields.io/badge/Neovim-1a1b26?style=for-the-badge&logo=neovim&logoColor=57A143)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+---
+
+## `$ git log --stat`
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&hide_border=true&show_icons=true&title_color=3B82F6&text_color=9aa5ce&icon_color=3B82F6&bg_color=1a1b26" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fiamanillah&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=1a1b26" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=fiamanillah&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=1a1b26&color=3B82F6&line=3B82F6&point=FFFFFF" width="100%" />
+</div>
+
+---
+
+## `$ cat /etc/about_me`
+
+```yaml
+outside_the_editor:
+  os:          "CachyOS (Arch-based) + Hyprland WM"
+  editor:      "Neovim (LazyVim config)"
+  gaming:      ["Cyberpunk 2077", "The Last of Us"]
+  mechanics:   "Studying FI vs EFI systems on motorcycles"
+  business:    "Compile Coffee — a coffee brand I'm building in Bangladesh"
+  philosophy:  "Ship clean code. Self-host everything. Own your stack."
+```
+
+---
+
+## `$ ping fi@amanillah.com`
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-fi.amanillah.com-3B82F6?style=for-the-badge)](https://fi.amanillah.com/)
+  [![Email](https://img.shields.io/badge/📧%20Email-fi@amanillah.com-D14836?style=for-the-badge)](mailto:fi@amanillah.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-fi--amanillah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fi-amanillah/)
+  [![Facebook](https://img.shields.io/badge/Facebook-fiamanillah-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fiamanillah.b2/)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%"/>
 </div>
