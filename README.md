@@ -168,19 +168,29 @@ Comprehensive platform for patient care, medical tracking, and AI-powered health
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&hide_border=true&show_icons=true&title_color=3B82F6&text_color=9aa5ce&icon_color=3B82F6&bg_color=1a1b26&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&background=1a1b26" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=1a1b26&text_color=9aa5ce" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=fiamanillah&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&column=4" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=1a1b26&color=3B82F6&line=3B82F6&point=ffffff&area=true&area_color=3B82F6" width="100%" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fiamanillah&theme=tokyonight&hide_border=true&show_icons=true&title_color=3B82F6&text_color=9aa5ce&icon_color=3B82F6&bg_color=1a1b26&include_all_commits=true&count_private=true" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fiamanillah&theme=tokyonight&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&background=1a1b26" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiamanillah&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&bg_color=1a1b26&text_color=9aa5ce" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=fiamanillah&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&column=4" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fiamanillah&custom_title=Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=1a1b26&color=3B82F6&line=3B82F6&point=ffffff&area=true&area_color=3B82F6" />
+    </td>
+  </tr>
+</table>
 
 ---
 
