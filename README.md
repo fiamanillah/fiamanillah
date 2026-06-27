@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3B82F6,100:1a1b26&height=200&section=header&text=Fi%20Amanillah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Night%20Owl%20%F0%9F%A6%89&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3B82F6,100:1a1b26&height=200&section=header&text=Fi%20Amanillah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <br/>
@@ -34,8 +34,6 @@ const fi = {
   education:  "B.Sc. CSE — European University of Bangladesh (2024–present)",
   focus:      ["Scalable Backend Systems", "Microservices", "Event-Driven Architecture"],
   learning:   ["Go (Golang)", "Computer Architecture", "RabbitMQ / BullMQ"],
-  building:   ["Pup-box platform for dog products", "Maternal health application"],
-  sideQuest:  "Founding Compile Coffee ☕ — a coffee brand in Bangladesh",
   setup:      "CachyOS + Hyprland + LazyVim (Neovim) 🐧",
   languages:  ["Bengali (Native)", "English (IELTS 6.5)"],
   philosophy: "Ship clean code. Self-host everything. Own your stack.",
@@ -64,6 +62,7 @@ const fi = {
   <img src="https://img.shields.io/badge/Tailwind%20CSS-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Shadcn%20UI-1a1b26?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Svelte-1a1b26?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
 
 ### Backend
@@ -83,7 +82,7 @@ const fi = {
   <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=4479A1" />
   <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Prisma-1a1b26?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-1a1b26?style=for-the-badge&logo=mongoose&logoColor=880000" />
+  <img src="https://img.shields.io/badge/Mongoose-1a1b26?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
 ### DevOps & Infrastructure
@@ -94,6 +93,7 @@ const fi = {
   <img src="https://img.shields.io/badge/Nginx-1a1b26?style=for-the-badge&logo=nginx&logoColor=009639" />
   <img src="https://img.shields.io/badge/Linux%20VPS-1a1b26?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Proxmox-1a1b26?style=for-the-badge&logo=proxmox&logoColor=E57000" />
+  <img src="https://img.shields.io/badge/KVM-1a1b26?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1a1b26?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
 
@@ -132,7 +132,8 @@ const fi = {
 <td width="50%" valign="top">
 
 ### 🔧 Mickanic
-**Service-Based Freelance Marketplace** &nbsp; `Oct 2025 – Jun 2026`
+**Service-Based Freelance Marketplace** &nbsp; `Oct 2025 – Jun 2026`  
+`Role: Backend Developer · DevOps`
 
 A high-performance platform connecting consumers with service contractors.
 
@@ -147,7 +148,8 @@ A high-performance platform connecting consumers with service contractors.
 <td width="50%" valign="top">
 
 ### 🏥 Moja Cares
-**Healthcare Management & AI Insights Portal** &nbsp; `Jan 2026 – Jun 2026`
+**Healthcare Management & AI Insights Portal** &nbsp; `Jan 2026 – Jun 2026`  
+`Role: Backend Developer`
 
 Comprehensive platform for patient care, medical tracking, and AI-powered health insights.
 
@@ -182,18 +184,13 @@ Comprehensive platform for patient care, medical tracking, and AI-powered health
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
 ```yaml
 learning:
   - Go (Golang) — systems-level programming
   - Microservices patterns with RabbitMQ / BullMQ
   - Computer Architecture fundamentals
-
-building:
-  - Custom pup-box platform (dog product subscriptions)
-  - Maternal health application
-  - Compile Coffee ☕ — a coffee brand launching in Bangladesh
 ```
 
 ---
