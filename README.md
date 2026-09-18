@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3B82F6,100:1a1b26&height=200&section=header&text=Fi%20Amanillah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3B82F6,100:1a1b26&height=200&section=header&text=Fi%20Amanillah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%26%20Postgres%20%7C%20Backend%20Architect&descAlignY=58&descSize=18" width="100%" />
 </div>
-
-<br/>
 
 <div align="center">
   <a href="https://fi.amanillah.com/" target="_blank">
@@ -30,15 +28,16 @@
 
 ```ts
 const fi = {
-  role:       "Full Stack Developer @ Softvence Agency",
-  education:  "B.Sc. CSE — European University of Bangladesh (2024–present)",
-  focus:      ["Scalable Backend Systems", "Microservices", "Event-Driven Architecture"],
-  learning:   ["Go (Golang)", "Computer Architecture", "RabbitMQ / BullMQ"],
-  setup:      "CachyOS + Hyprland + LazyVim (Neovim) 🐧",
-  languages:  ["Bengali (Native)", "English (IELTS 6.5)"],
-  philosophy: "Ship clean code. Self-host everything. Own your stack.",
+  role:      "Full Stack Developer @ Softvence Agency",
+  education: "B.Sc. CSE — European University of Bangladesh (2024–present)",
+  stack:     ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "Prisma"],
+  focus:     ["Scalable Backend Systems", "RBAC & Multi-Tenant Design", "AI/LLM Integration"],
+  setup:     "Arch Linux + Neovim 🐧",
+  location:  "Dhaka, Bangladesh",
 };
 ```
+
+Full Stack Developer with 2+ years of professional experience building and shipping production SaaS applications with **Next.js (App Router)** and **TypeScript**. I have deep hands-on experience designing relational **PostgreSQL** schemas, writing complex SQL, and implementing role-based access control (RBAC) and multi-tenant permission systems. I'm comfortable with auth, storage, realtime channels (WebSockets), and serverless/edge functions, and I regularly integrate AI/LLM APIs (OpenAI) into production workflows. I use AI coding agents like **Claude Code** and **Cursor** daily to accelerate delivery, write pull requests, and respond to code review.
 
 ---
 
@@ -56,13 +55,11 @@ const fi = {
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-1a1b26?style=for-the-badge&logo=redux&logoColor=764ABC" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-1a1b26?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <img src="https://img.shields.io/badge/Shadcn%20UI-1a1b26?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-1a1b26?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </p>
 
 ### Backend
@@ -70,7 +67,6 @@ const fi = {
   <img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/NestJS-1a1b26?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
   <img src="https://img.shields.io/badge/Express.js-1a1b26?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-1a1b26?style=for-the-badge&logo=bun&logoColor=F9F1E1" />
   <img src="https://img.shields.io/badge/REST%20APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/WebSockets-1a1b26?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
@@ -89,19 +85,18 @@ const fi = {
 <p>
   <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/GCP-1a1b26?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Vercel-1a1b26?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-1a1b26?style=for-the-badge&logo=nginx&logoColor=009639" />
   <img src="https://img.shields.io/badge/Linux%20VPS-1a1b26?style=for-the-badge&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Proxmox-1a1b26?style=for-the-badge&logo=proxmox&logoColor=E57000" />
-  <img src="https://img.shields.io/badge/KVM-1a1b26?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-1a1b26?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
 </p>
 
-### Messaging & Queues
+### Messaging & AI Tools
 <p>
   <img src="https://img.shields.io/badge/RabbitMQ-1a1b26?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
   <img src="https://img.shields.io/badge/BullMQ-1a1b26?style=for-the-badge&logo=redis&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/Socket.io-1a1b26?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-1a1b26?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1a1b26?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ### Tools & Environment
@@ -116,49 +111,75 @@ const fi = {
 
 ## 💼 Experience
 
-### Full Stack Developer — [Softvence Agency](https://softvence.com) `May 2025 – Present`
+### Full Stack Developer — [Softvence Agency](https://softvence.agency/) `May 2025 – Present`
+- Built and shipped features across the full stack in Node.js, TypeScript, Next.js (App Router), and React.js for production SaaS applications
+- Designed relational PostgreSQL schemas and relationships, wrote complex SQL queries, and implemented RBAC and multi-tenant permission structures
+- Built auth, session management, and file storage flows, plus real-time features using WebSockets
+- Used Claude Code and Cursor daily throughout the development lifecycle to accelerate delivery and debug production issues
+- Deployed containerized services to Linux VPS/AWS and automated releases via GitHub Actions CI/CD
 
-- Architected type-safe backend systems using **TypeScript**, **Express.js**, and **Prisma ORM**, paired with **React.js** frontends for high-performance applications
-- Improved API response times via **Redis** caching and **RabbitMQ** message brokers to decouple background tasks (AI processing, email dispatch)
-- Built granular **RBAC**, real-time bidirectional messaging via **WebSockets**, and tiered subscription billing with **Stripe** and **Paystack**
-- Containerized multi-service environments with **Docker**; deployed on **Linux VPS** with **AWS S3 / MinIO** for media storage
+### Web Developer — Gold Sky Overseas `Oct 2024 – May 2025`
+- Built and maintained responsive full-stack web applications using Next.js, React.js, and Tailwind CSS
+- Implemented REST API integrations, authentication flows, and form validation against a relational database backend
+- Diagnosed and resolved backend and frontend performance bottlenecks, improving Core Web Vitals
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Mickanic
-**Service-Based Freelance Marketplace** &nbsp; `Oct 2025 – Jun 2026`  
-`Role: Backend Developer · DevOps`
+### 📋 On Schedule
+**B2B SaaS Platform** &nbsp; `Aug 2025 – Jul 2026`
 
-A high-performance platform connecting consumers with service contractors.
+End-to-end inspection and scheduling platform built from the ground up.
 
-- REST API built with **TypeScript**, **Express.js**, **Prisma**, **PostgreSQL** & **Bun** runtime
-- **Stripe** integration for tiered subscriptions (Basic / Premium / Pro) + automated wallet recharges
-- Real-time messaging with **Socket.io + Redis**; async email workers via **RabbitMQ**
-- Fully containerized with **Docker Compose**; media on **AWS S3 / MinIO**
+- Architected the schema, relationships, and migrations in PostgreSQL + Prisma
+- Built RBAC-based role permissions, dynamic PDF generation, and Stripe subscription billing
+- Implemented async alerting via RabbitMQ, Twilio, and AWS SES
 
-`TypeScript` `Express.js` `PostgreSQL` `Prisma` `RabbitMQ` `Redis` `Socket.io` `Stripe` `Docker` `Bun`
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Docker` `Stripe` `RabbitMQ` `AWS`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 Moja Cares
-**Healthcare Management & AI Insights Portal** &nbsp; `Jan 2026 – Jun 2026`  
-`Role: Backend Developer`
+**Healthcare Management & AI Insights** &nbsp; `Jan 2026 – Jun 2026`
 
-Comprehensive platform for patient care, medical tracking, and AI-powered health insights.
+Multi-role healthcare SaaS with AI-powered patient insights.
 
-- Multi-role **RBAC** (Patient · Staff · Administrator)
-- **AI health worker** using **OpenAI API** to process S3 medical docs & generate patient summaries
-- Real-time care team chat via **WebSockets**; async health alerts via **RabbitMQ**
-- **Paystack** billing; multi-provider email via **AWS SES** and **Postmark**
+- PostgreSQL-backed REST APIs with granular RBAC for staff and patients
+- Integrated OpenAI API workers to automate health metric extraction from documents
+- Real-time communication via WebSockets, background jobs via Redis and RabbitMQ
 
-`TypeScript` `Express.js` `Prisma` `Redis` `RabbitMQ` `WebSockets` `OpenAI API` `AWS S3/SES` `Paystack`
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Redis` `WebSockets` `OpenAI API` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 Mickanic
+**Freelance Service Marketplace** &nbsp; `Oct 2025 – Jun 2026`
+
+Platform connecting consumers with service contractors.
+
+- REST API built with TypeScript, Express.js, Prisma, PostgreSQL & Bun runtime
+- Stripe integration for tiered subscriptions and automated wallet recharges
+- Real-time messaging with Socket.io + Redis; async email workers via RabbitMQ
+
+`TypeScript` `Express.js` `PostgreSQL` `Prisma` `RabbitMQ` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+**B.Sc. in Computer Science and Engineering**
+European University of Bangladesh — Sep 2024 – Present
+
+**Languages:** Bengali (Native), English (IELTS 6.5)
 
 </td>
 </tr>
@@ -191,17 +212,6 @@ Comprehensive platform for patient care, medical tracking, and AI-powered health
     </td>
   </tr>
 </table>
-
----
-
-## 🌱 Currently Learning
-
-```yaml
-learning:
-  - Go (Golang) — systems-level programming
-  - Microservices patterns with RabbitMQ / BullMQ
-  - Computer Architecture fundamentals
-```
 
 ---
 
